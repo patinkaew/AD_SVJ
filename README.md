@@ -2,6 +2,8 @@
 
 ## Generating Truth Level Data (To be updated)
 
+For general workflow for running Athena Analysis on PanDA, see [Running Athena analysis](https://panda-wms.readthedocs.io/en/latest/client/pathena.html)
+
 First, we need to setup the environment,
 ```
 export ATLAS_LOCAL_ROOT_BASE=/cvmfs/atlas.cern.ch/repo/ATLASLocalRootBase
@@ -22,4 +24,3 @@ Documentations:
 - [PhysicsAnalysisWorkbook](https://twiki.cern.ch/twiki/bin/viewauth/AtlasProtected/PhysicsAnalysisWorkBook)
 - [Rucio](https://rucio.cern.ch/documentation/)
 - [PanDA](https://panda-wms.readthedocs.io/en/latest/index.html)
-- [How to run Athena Analysis on PanDA](https://panda-wms.readthedocs.io/en/latest/client/pathena.html)
