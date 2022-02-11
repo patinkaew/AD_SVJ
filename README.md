@@ -1,4 +1,4 @@
-# AnomalyDetection SVJ
+# Anomaly Detection SVJ
 
 ## Generating Truth Level Data (To be updated)
 
